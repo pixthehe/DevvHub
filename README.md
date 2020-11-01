@@ -1,7 +1,6 @@
 ##**Up Date**
 
-Main Hub Ui Now has Pictures If game found
-
+Added Arsenal Gui and bug fixes more soon with the ui 
 
 ##List of Games
 
