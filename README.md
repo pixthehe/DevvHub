@@ -1,8 +1,5 @@
-##**GitHub Being slow sorry for the wait**
-
-##**Up Date**
-
-Added Arsenal Gui and bug fixes more soon with the ui 
+##**Im not updating this in a while because Im working on making games **https://github.com/pixthehe/Devv-Launcher
+ 
 
 ##List of Games
 
